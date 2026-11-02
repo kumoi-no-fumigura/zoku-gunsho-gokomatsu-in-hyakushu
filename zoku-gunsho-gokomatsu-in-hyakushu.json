@@ -1724,6 +1724,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 11,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-gokomatsu-in-hyakushu",
   "work": "後小松院御百首",
@@ -1736,7 +1740,7 @@
   "blocks": 11,
   "chars": 3028,
   "poems": 104,
-  "yaku": 0,
+  "yaku": 11,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T11:41:39+09:00"
